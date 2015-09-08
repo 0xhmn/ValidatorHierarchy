@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace ValidatorHierarchy
 {
-    public class Class1
+    public class PageValidationResult : ValidationResult
     {
+        public IEnumerable<SectionValidationResult> Sections { get; set; } 
     }
 }
