@@ -9,5 +9,6 @@ namespace ValidatorHierarchy.Utilities
     // db context
     public class CSOMContext
     {
+        // db communication stuff here
     }
 }
