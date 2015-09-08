@@ -9,5 +9,6 @@ namespace ValidatorHierarchy.Utilities
     // cmba/fmba ...
     public class APPLICATION
     {
+        // app declaration  here
     }
 }
